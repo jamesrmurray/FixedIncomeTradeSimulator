@@ -1,0 +1,7 @@
+org/jmtrading/Trade.class
+org/jmtrading/InvalidTradeException.class
+org/jmtrading/TradeGenerator.class
+org/jmtrading/TradeProcessor.class
+org/jmtrading/MongoIndexCreator.class
+org/jmtrading/App.class
+org/jmtrading/TradeProcessorRoute.class
